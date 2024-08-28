@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Headphones-ecommerce/static/css/main.afe9af99.css",
-    "main.js": "/Headphones-ecommerce/static/js/main.9ccbaf79.js",
+    "main.js": "/Headphones-ecommerce/static/js/main.048d2641.js",
     "static/media/smartwatch2-removebg-preview.png": "/Headphones-ecommerce/static/media/smartwatch2-removebg-preview.9bc873db942b07aba006.png",
     "static/media/headphone.png": "/Headphones-ecommerce/static/media/headphone.6abce47d92bd0cd186c1.png",
     "static/media/macbook.png": "/Headphones-ecommerce/static/media/macbook.4cca2e0e286afbff0db2.png",
@@ -28,10 +28,10 @@
     "static/media/slick.woff": "/Headphones-ecommerce/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Headphones-ecommerce/index.html",
     "main.afe9af99.css.map": "/Headphones-ecommerce/static/css/main.afe9af99.css.map",
-    "main.9ccbaf79.js.map": "/Headphones-ecommerce/static/js/main.9ccbaf79.js.map"
+    "main.048d2641.js.map": "/Headphones-ecommerce/static/js/main.048d2641.js.map"
   },
   "entrypoints": [
     "static/css/main.afe9af99.css",
-    "static/js/main.9ccbaf79.js"
+    "static/js/main.048d2641.js"
   ]
 }
